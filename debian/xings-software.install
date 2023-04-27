@@ -1,0 +1,10 @@
+etc/xdg/*
+usr/bin/*
+usr/share/applications/*
+usr/share/dbus-1/services/*
+usr/share/glib-2.0/schemas/*
+usr/share/icons/hicolor/*
+usr/share/locale/*
+usr/share/man/man1/*
+usr/share/metainfo/*
+usr/share/xings-software/*

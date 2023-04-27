@@ -1,0 +1,109 @@
+xings-software (0.3.93-1) unstable; urgency=medium
+
+  * Nueva version con correcciones.
+  * Agrega dependencia para descargar los iconos de las aplicaciones
+
+ -- Matias De lellis <mati86dl@gmail.com>  Wed, 26 Apr 2023 09:01:45 -0300
+
+xings-software (0.3.92-2) unstable; urgency=medium
+
+  * Agrega flatpak como dependencia necesaria..
+
+ -- Matias De lellis <mati86dl@gmail.com>  Thu, 13 Apr 2023 14:10:01 -0300
+
+xings-software (0.3.92-1) unstable; urgency=medium
+
+  * Nueva version
+
+ -- Matias De lellis <mati86dl@gmail.com>  Wed, 12 Apr 2023 11:28:14 -0300
+
+xings-software (0.3.91-4) unstable; urgency=medium
+
+  * Mas Huayra branding
+
+ -- Matias De lellis <mati86dl@gmail.com>  Tue, 21 Mar 2023 11:23:21 -0300
+
+xings-software (0.3.91-3) torbellino; urgency=medium
+
+  * Improve icon of applications as fallback.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Wed, 30 Nov 2022 20:16:06 -0300
+
+xings-software (0.3.91-2) torbellino; urgency=medium
+
+  * Backport de un parche.
+  * Reemplaze a gnome-packagekit, pk-updates-notifier y gdebi
+
+ -- Matias De lellis <mati86dl@gmail.com>  Wed, 29 Jun 2022 19:13:47 -0300
+
+xings-software (0.3.91-1) torbellino; urgency=medium
+
+  * New release.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Tue, 15 Mar 2022 11:59:33 -0300
+
+xings-software (0.3.90-2) torbellino; urgency=medium
+
+  * Depend on appstream
+
+ -- Matias De lellis <mati86dl@gmail.com>  Tue, 15 Feb 2022 20:22:09 -0300
+
+xings-software (0.3.90-1) torbellino; urgency=medium
+
+  * New release..
+
+ -- Matias De lellis <mati86dl@gmail.com>  Tue, 15 Feb 2022 19:47:10 -0300
+
+xings-software (0.3.5-2ubuntu4) unstable; urgency=medium
+
+  * Rebuild to Ubuntu Impish
+
+ -- Matias De lellis <mati86dl@gmail.com>  Fri, 22 Oct 2021 20:45:58 -0300
+
+xings-software (0.3.5-2ubuntu3) unstable; urgency=medium
+
+  * Rebuild to Ubuntu Hirsute
+
+ -- Matias De lellis <mati86dl@gmail.com>  Fri, 22 Oct 2021 20:31:40 -0300
+
+xings-software (0.3.5-2ubuntu2) unstable; urgency=medium
+
+  * Rebuild to ubuntu focal
+
+ -- Matias De lellis <mati86dl@gmail.com>  Fri, 22 Oct 2021 20:19:45 -0300
+
+xings-software (0.3.5-2ubuntu1) unstable; urgency=medium
+
+  * Rebuild to ubuntu bionic
+
+ -- Matias De lellis <mati86dl@gmail.com>  Fri, 22 Oct 2021 19:41:54 -0300
+
+xings-software (0.3.5-2) unstable; urgency=medium
+
+  * Build to bullseye
+
+ -- Matias De lellis <mati86dl@gmail.com>  Fri, 22 Oct 2021 19:30:00 -0300
+
+xings-software (0.3.5-1) torbellino; urgency=medium
+
+  * Update to last release as Xings Software
+
+ -- Matias De lellis <mati86dl@gmail.com>  Fri, 22 Oct 2021 10:54:02 -0300
+
+xings-packagekit (0.3.2-1) torbellino; urgency=medium
+
+  * Update to last version.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Thu, 07 Oct 2021 11:25:38 -0300
+
+xings-packagekit (0.3.1-0) torbellino; urgency=medium
+
+  * New version
+
+ -- Matias De lellis <mati86dl@gmail.com>  Thu, 30 Sep 2021 16:23:05 -0300
+
+xings-packagekit (0.3.0-1) torbellino; urgency=medium
+
+  * Initial public package
+
+ -- Matias De lellis <mati86dl@gmail.com>  Tue, 28 Sep 2021 12:17:43 -0300

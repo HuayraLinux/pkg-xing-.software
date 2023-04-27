@@ -1,0 +1,9 @@
+--- a/data/xings-software.desktop.in
++++ b/data/xings-software.desktop.in
+@@ -1,5 +1,5 @@
+ [Desktop Entry]
+-_Name=Software
++_Name=Tienda de Software de Huayra
+ _Comment=Add or remove software installed on the system
+ Icon=system-software-install
+ Exec=xings-software
